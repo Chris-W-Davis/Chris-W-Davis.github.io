@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Some clever title about academic personal websites"
+title: "Chris Davis: What is this about?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is a scant test page made after I found this template 
+This is a site where I thought that I would upload some papers 
+and detail some ideas.
 
-There isn't much here I'm afraid.
+Right now there isn't much here I'm afraid.
 
