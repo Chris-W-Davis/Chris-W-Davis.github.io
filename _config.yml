@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Chris Davis / Sample Site"
 title_separator          : "-"
 name                     : &name "Chris Davis"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Scientist at test university (unoriginal)"
+url                      : https://Chris-W-Davis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Chris-W-Davis/Chris-W-Davis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chris Davis test account"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scientist at Test University, expert in all things related to the side bar"
+  location         : "Wel, I'm here"
   employer         : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : 
