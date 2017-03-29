@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 This is a site where I thought that I would upload some papers 
 and detail some ideas.
 
