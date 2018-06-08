@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Davis / Sample Site"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Chris Davis"
 description              : &description "Research Scientist at test university (unoriginal)"
